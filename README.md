@@ -1,10 +1,10 @@
 GitHub repositories for Commander X16 projects.
 
 Members:
-  - Kenneth Christensen (lead, code and design)
-  - Christopher Christensen (co-lead, gfx, music and design)
+  - Kenneth Christensen ([CommanderX16-KEC](https://github.com/CommanderX16-KEC) - lead, code and design)
+  - Christopher Christensen ([CommanderX16-CUC](https://github.com/CommanderX16-CUC) - co-lead, gfx, music and design)
 
-Commander X16 officielt site: https://www.commanderx16.com/
+Commander X16 officielt site: https://www.commanderx16.com
 
 ![Commander X16 Logo](https://avatars.githubusercontent.com/u/134798193)
 
