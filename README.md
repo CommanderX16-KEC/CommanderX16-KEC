@@ -1,8 +1,8 @@
 GitHub repositories for Commander X16 projects.
 
 Members:
-  - Kenneth Christensen, kec@commanderx16.eu
-  - Christopher Christensen, cuc@commanderx16.eu
+  - Kenneth Christensen
+  - Christopher Christensen
 
 Commander X16 officielt site: https://www.commanderx16.com/
 
