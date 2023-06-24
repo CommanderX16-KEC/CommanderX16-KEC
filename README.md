@@ -6,7 +6,7 @@ Members:
 
 Commander X16 officielt site: https://www.commanderx16.com
 
-![Commander X16 Logo](https://github.com/CommanderX16-KEC/CommanderX16-KEC/blob/423874d75091be6d962161888f3f628c97f9fe99/Commander_X16_Logo.jpg)
+![Commander X16 Logo](https://raw.githubusercontent.com/CommanderX16-KEC/CommanderX16-KEC/main/Commander_X16_Logo.jpg)
 
 <!---
 CommanderX16-KEC/CommanderX16-KEC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
